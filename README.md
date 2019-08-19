@@ -50,7 +50,7 @@ tunes = [
 
 Connect the speaker between pin 0 and ground using some aligator clips.
 
-![speaker connections](images/speaker.PNG)
+![speaker connections](images/speaker3.png)
 
 ```python
 def game1():
@@ -131,7 +131,7 @@ def game2():
 ## Game 3
 
 Now we will use the accelometer and Servo for the next game; connect the Servo to pin 2.
-![Servo connection](images/servo.PNG)
+![Servo connection](images/servo3.png)
 
 Here we will read the on-board accelometer values then show that effect on the servo; The aim is to get the servo to 90 degrees for 3 seconds.
 
